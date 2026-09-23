@@ -27,5 +27,9 @@ function name(params) {
     return params;
 }
 
+function name2(params) {
+    return params;
+}
+
 // Usage: Generate next 10 prime numbers
 console.log(generatePrimes(10));
