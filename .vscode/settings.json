@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.shellIntegration.decorationsEnabled": "overviewRuler",
+    "scm.diffDecorationsGutterPattern": {
+        "added": true
+    }
+}
