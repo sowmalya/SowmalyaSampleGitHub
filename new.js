@@ -23,6 +23,9 @@ function isPrime(num) {
     
     return true;
 }
+function name(params) {
+    return params;
+}
 
 // Usage: Generate next 10 prime numbers
 console.log(generatePrimes(10));
