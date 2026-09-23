@@ -1,6 +1,9 @@
 function generatePrimes(n) {
     const primes = [];
     let num = 5;
+    let count = 0;
+    let lastPrime = 3; // Start from the last known prime number
+
     
     while (primes.length < n) {
         if (isPrime(num)) {
@@ -26,3 +29,4 @@ function isPrime(num) {
 
 // Usage: Generate next 10 prime numbers
 console.log(generatePrimes(10));
+
