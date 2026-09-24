@@ -23,11 +23,11 @@ function isPrime(num) {
     
     return true;
 }
-function name(params) {
+function name10(params) {
     return params;
 }
 
-function name2(params) {
+function name20(params) {
     return params;
 }
 
