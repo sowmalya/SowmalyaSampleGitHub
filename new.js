@@ -31,7 +31,7 @@ function name2(params) {
     return params;
 }
 
-function name3(params) {
+function name30(params) {
     return params;
 }
 
