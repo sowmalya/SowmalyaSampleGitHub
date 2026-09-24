@@ -31,5 +31,9 @@ function name2(params) {
     return params;
 }
 
+function name3(params) {
+    return params;
+}
+
 // Usage: Generate next 10 prime numbers
 console.log(generatePrimes(10));
